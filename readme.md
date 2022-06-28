@@ -1,39 +1,34 @@
 # Linux 
 "Linux Operating System" & "Command Line Interface" Short course.
 
-## Overview 
-### Chapter 1
-- Background & history 
-- What is Linux & distributions are.
-- How to start & practice?
-- How to install Linux?
-- How to connect to Linux systems.
+## Chapter 1 
+### Background & history : 
+1. What is Linux? History of Linux
+2. What a Linux Distribution is 
+4. Why Linux?
 
-### Chapter 2
-- Linux filesystem hierarchy.
-- The command line interface.
-- Getting help, finding documentation.
-- Root, the superuser.
-- Linux directories & navigating. 
+<strong>1. What is Linux?</strong>
+- An Operating System 
+- A Kernel
+- Created by Linus Torvalds in 1991
+- First version released in 1994
+- FOSS (Free/Open Source Software)
+- Unix-Like
 
-### Chapter 3
-- How to read, set, change file & directory permissions.
-- Sharing files & directories with others.
-- Finding files & directories.
-- View & editing files.
+NB. Linux Kernel + Additional Software = Linux Operating System 
 
-### Chapter 4
-- Delete, copy, move & rename operations. 
-- Input, Output & Redirection
-- Searching for data
-- Prompt & Aliases customization
-- Transferring files over the network. 
+<strong>2. Distributions are</strong>
 
-### Chapter 5
-- Processes & job control.
-- Schedule & automate jobs.
-- Switching users.
-- Command line efficiency tips.
-- Software package management.
+Each Distribution has it's own focus. Many of Distributions available. Go to [distroWatch](http://distroWatch.com) to discover Linux distributions.
+- Red Hat Enterprise Linux (RHEL)
+- Fedora
+- Ubuntu
+- Debian
+- SuSE Linux Enterprise Server (SLES)
+- OpenSuSE
+
+### How to start & practice?
+### How to install Linux?
+### How to connect to Linux systems.
 
 Thankyou.
